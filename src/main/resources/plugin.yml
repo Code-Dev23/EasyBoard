@@ -1,0 +1,11 @@
+name: EasyScoreboard
+version: '${version}'
+main: it.scopped.easyscoreboard.EasyScoreboard
+api-version: '1.20'
+commands:
+  easyboardreload:
+    aliases:
+      - easyscoreboardreload
+      - esreload
+      - scoreboardeasyreload
+      - sereload

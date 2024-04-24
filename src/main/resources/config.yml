@@ -1,0 +1,6 @@
+scoreboard:
+  interval: 0 # Seconds
+  title: "&f&lEasy&b&lScoreboard"
+  lines:
+    - "&fName: &b%player_name%"
+    - "&fOnline: &3%server_online%"
